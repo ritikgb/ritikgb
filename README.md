@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ritikgb
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on IBM
+- 💞️ I’m looking to collaborate ...
 - 📫 How to reach me @ritik_niwas/insta
 
 <!---
